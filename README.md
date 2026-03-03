@@ -7,3 +7,6 @@ ytfzf --search=video 'python tutorial'
 
 ### Мои настройки:
 export YTFZF_PREFER='yt-dlp'
+
+## Дополнительные изменения после слияния
+Добавлена новая функциональность
