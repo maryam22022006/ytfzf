@@ -1,8 +1,9 @@
-# NOTICE
 
-This project is no longer actively maintained, it should still work for the foreseeable future
+## Мои изменения в branch1
+Это мои личные заметки по использованию ytfzf
 
----
+### Мои любимые команды:
+ytfzf --search=video 'python tutorial'
 
 <p align="center">
     <a> <img src=.assets/logo.png></a>
@@ -224,3 +225,7 @@ ytfzf --show-thumbnails 'music'
 
 ### Результаты:
 Thumbnails work best with ueberzug
+=======
+### Мои настройки:
+export YTFZF_PREFER='yt-dlp'
+>>>>>>> branch1
