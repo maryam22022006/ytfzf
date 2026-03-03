@@ -218,3 +218,6 @@ Feel free to contribute, and add your name to the credits, please use the develo
 
 ## Альтернативные изменения в branch2
 Мои эксперименты с ytfzf
+
+### Мои эксперименты:
+ytfzf --show-thumbnails 'music'
