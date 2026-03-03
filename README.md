@@ -221,3 +221,6 @@ Feel free to contribute, and add your name to the credits, please use the develo
 
 ### Мои эксперименты:
 ytfzf --show-thumbnails 'music'
+
+### Результаты:
+Thumbnails work best with ueberzug
