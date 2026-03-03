@@ -4,3 +4,6 @@
 
 ### Мои любимые команды:
 ytfzf --search=video 'python tutorial'
+
+### Мои настройки:
+export YTFZF_PREFER='yt-dlp'
